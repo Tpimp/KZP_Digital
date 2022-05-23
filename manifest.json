@@ -1,0 +1,10 @@
+{
+    "name":"KZP Clock",
+    "contentType":"Qml",
+    "version":2,
+    "versionText":"v0.2",
+    "icon":"images/kzp_clock_icon.png",
+    "entry":"kzp_clock.qml",
+    "files":["images/background.png", "images/fan.png", "images/water-pump.svg",
+             "fonts/next-art.heavy.otf", "images/globe.gif"]
+}
